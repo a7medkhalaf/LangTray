@@ -1,0 +1,9 @@
+{
+  "name": "xLanguageTray",
+  "description": "Move Region/Language Tray To Quick Settings",
+  "url": "https://github.com/a7medkhalaf/Extensions",
+  "uuid": "langTray@a7medkhalaf",
+  "shell-version": [
+    "45"
+  ]
+}
